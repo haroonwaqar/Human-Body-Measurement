@@ -1,3 +1,5 @@
 .venv
 /__pycache__
 yolo11n-pose.pt
+.DS_Store
+/images
